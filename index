@@ -1,0 +1,205 @@
+<!doctype html>
+<!-- Teacher: Dr. O'Calighan-Hay               -->
+<!-- Written by: Caleb Hurbon        9/15/2022 -->
+
+<!-- This is the Landing/Home Page for my Class group webstie. -->
+<!-- Here you will find links to resources for the group to use over the semester -->
+<!-- Enjoy!!!!! -->
+
+<!-- Clip art under public domain:
+	https://publicdomainvectors.org/en/free-clipart/Vector-drawing-of-art-deco-city/31298.html
+	https://www.shutterstock.com/image-vector/vector-abstract-arabesque-seamless-pattern-geometric-1566893914
+	https://monogrammaker.com/ -->
+<!--*********************************************************************************************************************************** -->
+<!--******************************************************** BEGIN WEBPAGE ************************************************************ -->
+<!--*********************************************************************************************************************************** -->
+
+<html lang="en">
+	<head>
+		<title>
+			Aim For A
+		</title>
+		<link rel="icon" type="image/x-icon" href="images/AAA.png">
+
+<!--***** BEGIN CSS *****-->
+		<style>
+			body {
+				margin: 0;
+			     }
+
+			/* Style the header */
+				.header {
+					background-color: black;
+					opacity: 1;
+					padding: 2px;
+					text-align: center;
+					}
+			/* Style the top navigation bar */
+				.topnav {
+					overflow: hidden;
+					background-color: #333;
+					}
+			/* Style the topnav links */
+				.topnav a {
+					float: left;
+					display: block;
+					color: #f2f2f2;
+					text-align: center;
+					padding: 14px 16px;
+					text-decoration: none;
+					}
+			/* Change color on hover */
+				.topnav a:hover {
+					background-color: #ddd;
+					color: black;
+					}
+			/* Style the footer */
+				.footer {
+					background-color: black;
+					padding: 10px;
+					text-align: center;
+					}
+		</style>
+<!--***** END CSS *****-->
+
+	</head>
+
+	<body style="background-color: gray">
+
+		<div class="header">
+		 <p style="font-size:4px">This text is for spacing purposes</p>
+		  <img src="images/01-head(name).png"     >
+		  <img src="images/03-head(spacer).png"   >
+		  <img src="images/AAA.png"	  >
+		  <img src="images/03-head(spacer).png"   >
+		  <img src="images/04-head(name-spc).png" >
+		 <p style="font-size:4px">This text is for spacing purposes.</p>
+		</div>
+
+		<div class="topnav">
+		  <a href="index.html">					        Home			          </a>
+<!--  <a href="01-about.html">				      About Me		        </a>
+		  <a href="02-resume.html">				      Education & Resume	</a>
+		  <a href="03-webdevprojects.html">			Portfolio		        </a>
+		  <a href="04-Contact.html">				    Contact			        </a>
+		  <a href="https://stylesuxx.github.io/steganography/">	Favorite Page 1		</a>
+		  <a href="https://brave.com/">				  Favorite Page 2		  </a>
+-->
+		</div>
+
+<!--WELCOME-->	<h1 style="background-image:url('images/05-wlcm.png') ; text-align:center ; color:white ; font-size:60px ; margin:5px">Welcome</h1>
+
+<!-- IMAGE -->	<div style="background-image:url('images/06-bckgrd.png'); text-align:left ; margin:5px">
+	
+			<table style="text-align:center">
+				<tr>
+					<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+
+<!--    	<td>	<img style="text-align:center" src="images/07-headshot .png" height="400" width="300"></td>
+-->
+
+					<td style="background:silver">
+						<table><tr><td>&nbsp&nbsp&nbsp</td>
+							<td>
+<!-- INRODUCTION HEADING -->				<h3 style="font-size:30px">Introduction</h3>
+							<p style="font-size:20px ; text-align:left">
+							&nbsp&nbsp&nbsp&nbsp
+								Welcome to the resource page for the Comm 333 Group, Aim for A. I will be working on adding resources and tools for the group to use in the comming days.
+							</p>
+							</td>
+						<td>&nbsp&nbsp&nbsp</td></tr></table>
+					</td>
+
+					<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+
+				</tr>
+			</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<!--SUBPAGE PREVIEWS-->	<table>
+				<tr>
+					<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+
+					<td style="background:silver">
+						<table style="text-align:center">
+							<tr>
+								<td>&nbsp&nbsp&nbsp</td>
+								<td>	<p style="font-size:25px">Vision Statement</p>	</td>
+								<td>&nbsp&nbsp&nbsp</td>
+							</tr>
+
+							<tr>
+								<td>&nbsp&nbsp&nbsp</td>
+								<td>
+								</td>
+
+								<td>
+								</td>
+
+								<td>&nbsp&nbsp&nbsp&nbsp<td>
+							</tr>
+						</table>
+					</td>
+
+					<td style="background:silver">
+						<table style="text-align:center">
+							<tr>
+								<td>&nbsp&nbsp&nbsp</td>
+								<td>	<p style="font-size:25px">Goals</p>	</td>
+								<td>&nbsp&nbsp&nbsp</td>
+							</tr>
+
+							<tr>
+								<td>&nbsp&nbsp&nbsp</td>
+								<td>
+								</td>
+
+								<td>
+								</td>
+
+								<td>&nbsp&nbsp&nbsp&nbsp<td>
+							</tr>
+						</table>
+					</td>
+					<td style="background:silver">
+						<table style="text-align:center">
+							<tr>
+								<td>&nbsp&nbsp&nbsp</td>
+								<td>	<p style="font-size:25px">Logo</p>	</td>
+								<td>&nbsp&nbsp&nbsp</td>
+							</tr>
+
+							<tr>
+								<td>&nbsp&nbsp&nbsp</td>
+								<td>
+								</td>
+
+								<td>
+								</td>
+
+								<td>&nbsp&nbsp&nbsp&nbsp<td>
+							</tr>
+						</table>
+					</td>
+					
+					
+					
+					
+					<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+				</tr>
+			</table>
+		</div>
+
+		
+<!-- BEGIN FOOTER -->
+		<div class="footer" style="color:white">
+		  <p>		Contact Me via Email: Caleb.Hurbon@vanguard.edu	</p>
+		  <p><big>	No Website buildier used on this page.		</big>
+		  <br><i>	Everything was handwritten in Windows <br> Notepad using HTML, CSS, and JavaScript.</i></p>
+		</div>
+	</body>
+</html>
